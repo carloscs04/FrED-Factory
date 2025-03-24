@@ -26,6 +26,12 @@ If you require access to restricted files, please **contact the project maintain
 
 ---
 
+
+## ⏱️ Optimized Development  
+In the interest of fostering a more efficient development process, this project is benefiting from the assistance of **ChatGPT** to help optimize time and resources. While the **design models** and **innovative solutions** are the result of the brilliant minds of our team members, the automation of tasks such as documentation drafting and structural organization allows the team to focus on more intricate and complex aspects of the project. This balance of human ingenuity and intelligent tools drives both the **creative** and **operational** facets of FrED Factory forward.
+
+---
+
 ### 📢 **Contributing & Contact**  
 This project is an ongoing collaboration. If you'd like to contribute or have any questions, feel free to open an **issue** or reach out to the team.  
 
