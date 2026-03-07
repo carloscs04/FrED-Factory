@@ -1,1 +1,0 @@
-﻿"longitud"= 600mm
