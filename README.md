@@ -1,41 +1,62 @@
-# 🏭 FrED Factory – Filament Recycling Automation
+# FrED Factory
 
-FrED Factory is an automated manufacturing line designed to develop a system for **recycling and repurposing 3D printing filament**. The project integrates **robotics, control systems, and automation** to create an efficient and sustainable process for filament reuse.
-
-## 🚀 Project Overview  
-- **Automation-Driven**: Robotics and control systems streamline filament processing.
-- **Sustainability-Focused**: Reducing 3D printing waste through smart recycling.
-- **Collaborative Development**: Led by a team from **Tec de Monterrey and MIT**, working remotely with periodic on-site reviews.
-- **Open-Source & Documented**: The project follows structured documentation in GitHub for transparency and further development.
-
-## 📂 Repository Structure  
-
-FrED Factory/ │── docs/ # Project documentation
-│── models/ # CAD models and designs
-│── exports/ # PDFs, photos, and presentations
-│── software/ # Control algorithms and automation scripts
-│── hardware/ # Hardware and mechanical system designs
-│── tests/ # Testing and validation data
-│── README.md # Project overview
-
-
-## 🔒 Privacy & Restricted Files  
-Some files within this repository are **restricted in accordance with the project's privacy policies**. These may include proprietary designs, confidential data, or technical details not publicly available.
-
-If you require access to restricted files, please **contact the project maintainers**.
+FrED Factory is an automated manufacturing system designed to generate operational data and support learning in an educational environment.  
+The project integrates robotics, control systems, and industrial automation to explore how automated production systems can contribute to more sustainable manufacturing practices.
 
 ---
 
+# Academic Project Context
 
-## ⏱️ Optimized Development  
-In the interest of fostering a more efficient development process, this project is benefiting from the assistance of **ChatGPT** to help optimize time and resources. While the **design models** and **innovative solutions** are the result of the brilliant minds of our team members, the automation of tasks such as documentation drafting and structural organization allows the team to focus on more intricate and complex aspects of the project. This balance of human ingenuity and intelligent tools drives both the **creative** and **operational** facets of FrED Factory forward.
+This project was developed as part of an academic engineering challenge focused on industrial automation and collaborative manufacturing system design.
+
+Student teams were tasked with designing and implementing different components of a production line that together form the **FrED** system. The complete system is composed of five workstations:
+
+- Base Building (MDF structure)
+- Electronic Assembly
+- Cooling System
+- Spooling System
+- Extruder Placement
+
+Each team was responsible for one subsystem. Our team was responsible for the **Cooling System** workstation.
+
+The final objective is to build a complete automated production workflow where mechanical systems, robotic automation, and operator-assisted stations work together to recycle and process filament material.
 
 ---
 
-### 📢 **Contributing & Contact**  
-This project is an ongoing collaboration. If you'd like to contribute or have any questions, feel free to open an **issue** or reach out to the team.  
+# Challenge Objectives
+
+The engineering challenge defined several core objectives:
+
+- Design and implement a **fully automated station that integrates an industrial robot**
+- Develop a **fully functional FrED system** through collaboration across all teams
+- Introduce **technical innovation within each team’s assigned subsystem**
+- Design a **subassembly station** where a human operator prepares components for robotic assembly
+- Ensure proper **integration between the operator station and the robotic automation workflow**
+
+These objectives simulate real industrial engineering scenarios where multiple teams develop different subsystems of a production line that must ultimately operate as a single integrated manufacturing system.
 
 ---
 
-🔧 **FrED Factory** is committed to advancing **sustainable manufacturing** through **automation and robotics**. Let's build a more sustainable future! 🌱✨  
+# Team Contribution
 
+Our team focused on the development of the **Cooling System** within the FrED production process.
+
+The objective of this subsystem is to regulate and control the cooling stage of the recycled filament process, ensuring material stability and consistent output quality before the next stage of the manufacturing workflow.
+
+In addition, the team designed a **subassembly preparation station** where an operator organizes and prepares components that will later be manipulated by the robot during the automated assembly stage.
+
+This approach reflects a hybrid manufacturing model in which **human preparation tasks and robotic automation operate together within the same production line**.
+
+---
+
+# System Perspective
+
+The FrED Factory project demonstrates how different engineering components interact within a manufacturing environment:
+
+- Mechanical systems
+- Automation and robotics
+- Control systems
+- Operator-assisted workstations
+- Integrated production workflows
+
+By organizing these elements within a single repository, the project provides a structured representation of a small-scale automated manufacturing system.
