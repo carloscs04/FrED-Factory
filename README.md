@@ -1,9 +1,9 @@
 # FrED Factory
 
-![image alt](https://github.com/carloscs04/FrED-Factory/blob/6bd5bc9be9f8d171a19ac264e47d298bcfc8c7cb/docs/02-media/03-product/FrED1.jpeg)
-
 FrED Factory is an automated manufacturing system designed to generate operational data and support learning in an educational environment.  
 The project integrates robotics, control systems, and industrial automation to explore how automated production systems can contribute to more sustainable manufacturing practices.
+
+![image alt](https://github.com/carloscs04/FrED-Factory/blob/6bd5bc9be9f8d171a19ac264e47d298bcfc8c7cb/docs/02-media/03-product/FrED1.jpeg)
 
 ---
 
